@@ -267,7 +267,7 @@ int main(int argc, char* argv[]) {
         cout << "Partículas congeladas: " << frozen_points.size() - 1 << endl;
         cout << "Total de pontos: " << frozen_points.size() << endl;
 
-        cout << "\nGerando arquivo de saída..." << endl;l;
+        cout << "\nGerando arquivo de saída..." << endl;
 
         pointsToCubes(frozen_points);
 
