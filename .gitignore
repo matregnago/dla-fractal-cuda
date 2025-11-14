@@ -1,0 +1,6 @@
+*.obj
+dla_par
+dla_seq
+resultados.csv
+*.o
+*.exe
