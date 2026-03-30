@@ -1,0 +1,21 @@
+Grupo,Nome do teste,Tempo CPU (s),Tempo GPU (s),Partículas,Speedup
+1_Escalabilidade_vs_Particulas,Escala_Particulas_10k,174.4456,4.1818,10000,41.71543354536325
+1_Escalabilidade_vs_Particulas,Escala_Particulas_20k,248.3266,6.2756,20000,39.570176556823256
+1_Escalabilidade_vs_Particulas,Escala_Particulas_30k,298.4066,8.787,30000,33.96000910435871
+1_Escalabilidade_vs_Particulas,Escala_Particulas_40k,335.0276,11.3432,40000,29.53554552507229
+1_Escalabilidade_vs_Particulas,Escala_Particulas_50k,359.1476,16.815,50000,21.35876300921796
+1_Escalabilidade_vs_Particulas,Escala_Particulas_60k,391.584,18.561,60000,21.097139162760627
+1_Escalabilidade_vs_Particulas,Escala_Particulas_70k,407.177,22.0296,70000,18.48317717979446
+1_Escalabilidade_vs_Particulas,Escala_Particulas_80k,435.1088,19.314,80000,22.528155741948844
+1_Escalabilidade_vs_Particulas,Escala_Particulas_90k,444.6384,22.2208,90000,20.010008640552993
+1_Escalabilidade_vs_Particulas,Escala_Particulas_100k,458.9032,22.5286,100000,20.369805491686122
+1_Escalabilidade_vs_Particulas,Escala_Particulas_110k,475.5334,25.1818,110000,18.884011468600338
+1_Escalabilidade_vs_Particulas,Escala_Particulas_120k,490.2426,23.7326,120000,20.656927601695557
+1_Escalabilidade_vs_Particulas,Escala_Particulas_130k,491.934,23.8634,130000,20.61458132537694
+1_Escalabilidade_vs_Particulas,Escala_Particulas_140k,492.8702,24.452,140000,20.15664158351055
+1_Escalabilidade_vs_Particulas,Escala_Particulas_150k,503.5334,24.8234,150000,20.28462660231878
+1_Escalabilidade_vs_Particulas,Escala_Particulas_160k,530.5476,28.5434,160000,18.587400239635084
+1_Escalabilidade_vs_Particulas,Escala_Particulas_170k,520.8992,25.6338,170000,20.32079520008738
+1_Escalabilidade_vs_Particulas,Escala_Particulas_180k,525.2572,25.6848,180000,20.450118357939328
+1_Escalabilidade_vs_Particulas,Escala_Particulas_190k,528.18,25.709,190000,20.54455638103388
+1_Escalabilidade_vs_Particulas,Escala_Particulas_200k,542.0536,25.9868,200000,20.858805239583173
