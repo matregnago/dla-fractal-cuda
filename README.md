@@ -1,27 +1,7 @@
-# dla-fractal-cuda
-Diffusion Limited Aggregation algorithm in CUDA and C++
+# DLA Fractal CUDA
 
-## Running Python Scripts (Benchmarks & Charts)
+This project generates Diffusion-Limited Aggregation (DLA) fractals using C++ and CUDA.
 
-To run the benchmark and chart generation scripts, you should set up a Python virtual environment and install the required dependencies.
+This work was developed as a undergraduate thesis and submitted to ERAD/RS 2026.
 
-1. Create a virtual environment:
-   ```bash
-   python3 -m venv venv
-   ```
-2. Activate the virtual environment:
-   ```bash
-   source venv/bin/activate
-   ```
-3. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the benchmark script (this will generate `resultados.csv`):
-   ```bash
-   python benchmark.py
-   ```
-5. Run the charts script (this will generate SVG images in the `imagens/` folder):
-   ```bash
-   python charts.py
-   ```
+![DLA fractal sample](imagens/fractal.png)
